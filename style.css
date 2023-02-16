@@ -1,0 +1,14 @@
+table{ background-color: blue;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow:10px 10px 10px black;
+}
+td,th{
+    border: 2px solid black;
+    border-radius: 5px;
+    }
+    .abc{
+       background-color: yellow;
+    }
+    .def{background-color: brown;
+    }
